@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("APIEcommerce")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a89cc9605a2d630a4567838ae6b5df581c38360e")]
 [assembly: System.Reflection.AssemblyProductAttribute("APIEcommerce")]
 [assembly: System.Reflection.AssemblyTitleAttribute("APIEcommerce")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
